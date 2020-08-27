@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Dashboard_campamentos/precache-manifest.241539d9d5c093fab72cecca8e827a05.js"
+  "/Dashboard_campamentos/precache-manifest.bcdde60d4ed0ec3e23e3e27e6f80de0d.js"
 );
 
 self.addEventListener('message', (event) => {
