@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Dashboard_campamentos/static/css/main.5facb584.chunk.css",
+    "main.js": "/Dashboard_campamentos/static/js/main.d8b9697e.chunk.js",
+    "main.js.map": "/Dashboard_campamentos/static/js/main.d8b9697e.chunk.js.map",
+    "runtime-main.js": "/Dashboard_campamentos/static/js/runtime-main.3716dd95.js",
+    "runtime-main.js.map": "/Dashboard_campamentos/static/js/runtime-main.3716dd95.js.map",
+    "static/css/2.ed439b8d.chunk.css": "/Dashboard_campamentos/static/css/2.ed439b8d.chunk.css",
+    "static/js/2.bd61fcfc.chunk.js": "/Dashboard_campamentos/static/js/2.bd61fcfc.chunk.js",
+    "static/js/2.bd61fcfc.chunk.js.map": "/Dashboard_campamentos/static/js/2.bd61fcfc.chunk.js.map",
+    "index.html": "/Dashboard_campamentos/index.html",
+    "precache-manifest.241539d9d5c093fab72cecca8e827a05.js": "/Dashboard_campamentos/precache-manifest.241539d9d5c093fab72cecca8e827a05.js",
+    "service-worker.js": "/Dashboard_campamentos/service-worker.js",
+    "static/css/2.ed439b8d.chunk.css.map": "/Dashboard_campamentos/static/css/2.ed439b8d.chunk.css.map",
+    "static/css/main.5facb584.chunk.css.map": "/Dashboard_campamentos/static/css/main.5facb584.chunk.css.map",
+    "static/js/2.bd61fcfc.chunk.js.LICENSE.txt": "/Dashboard_campamentos/static/js/2.bd61fcfc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3716dd95.js",
+    "static/css/2.ed439b8d.chunk.css",
+    "static/js/2.bd61fcfc.chunk.js",
+    "static/css/main.5facb584.chunk.css",
+    "static/js/main.d8b9697e.chunk.js"
+  ]
+}
